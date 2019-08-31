@@ -1,0 +1,54 @@
+[
+  {
+    "name": "India",
+    "capital": "Delhi"
+  },
+  {
+    "name": "United States of America",
+    "capital": "Washington D C"
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canbera"
+  },
+  {
+    "name": "France",
+    "capital": "Paris"
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin"
+  },
+  {
+    "name": "Russia",
+    "capital": "Moscow"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasilia"
+  },
+  {
+    "name": "Ukraine",
+    "capital": "Kyiv"
+  },
+  {
+    "name": "Kenya",
+    "capital": "Nairobi"
+  },
+  {
+    "name": "Switzerland",
+    "capital": "Bern"
+  },
+  {
+    "name": "Sweden",
+    "capital": "Stockholm"
+  },
+  {
+    "name": "New Zealand",
+    "capital": "Wellington"
+  }
+]
